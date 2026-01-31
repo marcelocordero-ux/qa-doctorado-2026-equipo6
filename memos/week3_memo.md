@@ -82,7 +82,7 @@ Entregar artefactos obligatorios: risk_matrix.csv (≥8 riesgos, Top 3), test_st
 
 ## Reflexión breve
 La gestión de riesgos está ingresando a los procesos operativos organizacionales como un paradigma de aplicación, entre los aspectos discutidos en el grupo en la reunión estuvo definiendo que estándares de riesgos y aspectos de aplicabilidad existen en el mercado, de la cual se identificó las siguientes respuestas:
-- Existen estandares y buenas prácticas como la ISO 31000 (Gestión de riesgos empresariales) que emite pasos, tares, responsables y objetivos de la gestión de riesgos.
+- Existen estandares y buenas prácticas como la ISO 31000 (Gestión de riesgos empresariales) que emite pasos, tareas, responsables y objetivos de todo el ciclo de la gestión de riesgos.
 - Desde un punto de vista aplicativo a los procesos actuales observamos que en normas como la generada por ASFI hace mención a las metodologías de auditoría basadas en riesgos.
 Lo anterior descrito denota que las necesidades de implementar gestión de riesgos en las tareas operativas es un paradigma que apoya en centrar todos los recursos en los puntos más criticos que se vayan a determinar, por lo que la priorización en riesgos observables (disponibilidad, latencia, consistencia) permite generar valor rápido y evidencia defendible con bajo esfuerzo inicial.
 El enfoque basado en escenarios existentes de Semana 2 facilita la trazabilidad y reutilización.
