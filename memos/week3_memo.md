@@ -74,20 +74,11 @@ Entregar artefactos obligatorios: risk_matrix.csv (≥8 riesgos, Top 3), test_st
   - Validación de la coherencia entre estructura de carpetas, artefactos generados y trazabilidad Riesgo → Escenario → Evidencia.
 
 ## Resultados clave
-- Matriz completa con 8 riesgos, priorización clara y trazabilidad a escenarios Semana 2.
+- Matriz completa con 8 riesgos (risk_matrix.csv), priorización clara y trazabilidad a escenarios Semana 2.
 - Estrategia documentada y defendible (risk/test_strategy.md).
 - Scripts de prueba desarrollados y preparados para la ejecución de escenarios asociados a los Top 3 riesgos priorizados (disponibilidad, latencia y consistencia).
 - Evidencia técnica reproducible generada para los Top 3 riesgos, almacenada en la carpeta evidence/week3/, incluyendo logs de ejecución, mediciones y muestras de respuestas.
 - Registro cronológico de las ejecuciones y resultados documentado en evidence/week3/RUNLOG.md, asegurando trazabilidad y auditabilidad de las pruebas realizadas.
-
-## Pendientes / Próximos pasos
-- Ejecutar pruebas para Top 3 riesgos:
-  - Smoke múltiple (R01 – Disponibilidad)
-  - Mediciones de latencia baseline (R02 – SC-05)
-  - Asserts de consistencia en respuestas (R03 – SC-06 extendido)
-- Crear evidence/week3/RUNLOG.md con registro cronológico.
-- Completar evidencias (logs, CSVs, JSON samples) y actualizar RUNLOG.
-- Revisar y commitear todo antes de merge a main.
 
 ## Reflexión breve
 La gestión de riesgos está ingresando a los procesos operativos organizacionales como un paradigma de aplicación, entre los aspectos discutidos en el grupo en la reunión estuvo definiendo que estándares de riesgos y aspectos de aplicabilidad existen en el mercado, de la cual se identificó las siguientes respuestas:
